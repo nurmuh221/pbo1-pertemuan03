@@ -1,7 +1,4 @@
 package Operator;
-
-import java.sql.SQLOutput;
-
 public class OperatorBinary {
 
     String nama = "Muhammad Nur";
